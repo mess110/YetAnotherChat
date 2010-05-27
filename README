@@ -1,0 +1,16 @@
+YetAnotherChat
+
+Author:
+Cristian Mircea Messel
+
+Requirements:
+java
+netbeans 6.8
+ubuntu 32bit
+
+Description:
+Chat system that I made so it can be used by other projects.
+Client sends message to server, server sends message to all connected clients.
+
+Points of interest:
+ChatClient and ChatServer
